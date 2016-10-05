@@ -1,4 +1,4 @@
-This is the solutions to the problems proposed by the tutorials of NodeSchool.
+This is the solutions to the problems proposed by the tutorials of NodeSchool http://nodeschool.io/
 
 Contents:
  - JavaScripting
