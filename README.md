@@ -5,5 +5,6 @@ Contents:
  - learnyounode
  - how-to-npm
  - ExpressWorks
+ - learnyoumongo
 
 Feel free to comment anything you find necessary.
