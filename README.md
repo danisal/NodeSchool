@@ -8,6 +8,7 @@ Contents:
 - JS-best-practices
 - learnyoumongo
 - learnyounode
+-promise-it-wont-hurt
 - scope-chains-closures
 
 Feel free to comment anything you find necessary.
