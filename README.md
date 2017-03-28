@@ -1,6 +1,7 @@
 This is the solutions to the problems proposed by the tutorials of NodeSchool http://nodeschool.io/
 
 Contents:
+- Count-to-6
 - ExpressWorks
 - Functional JavaScripting
 - how-to-npm
